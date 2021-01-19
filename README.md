@@ -37,10 +37,12 @@ Uplink channels 1-10 (RX1)
 921.4MHz - SF10BW125 (RX2)
 ```
 
-## Contributing
-Tony Doan - Lead engineers [Cloud Energy](https://cloude.sg)
+## Contributors
+Tony Doan - Lead engineers at [Cloud Energy](https://cloude.sg)
 
-Joyanta - Presales and Support Manager APAC at [KERLINK](https://www.kerlink.com/)
+Joyanta Majumder - Presales and Support Manager APAC at [KERLINK](https://www.kerlink.com/)
+
+Michel Gilbert - Radio Access Expert at [KERLINK](https://www.kerlink.com/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
